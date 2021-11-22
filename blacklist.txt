@@ -1,1 +1,4 @@
 /http[s]?:\/\/[\w]*\.?it[s]?[\d]*\.com/g
+*://www.codeleading.com/*
+*://www.sdhndqkj.com/*
+*://www.sandao333.com/*
