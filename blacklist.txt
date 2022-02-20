@@ -1,4 +1,9 @@
-/http[s]?:\/\/[\w]*\.?it[s]?[\d]*\.com/g
+/http[s]?:\/\/[\w]*\.?it[s]?[\d]*\.com/
 *://www.codeleading.com/*
 *://www.sdhndqkj.com/*
 *://www.sandao333.com/*
+*://www.muzijie.com/*
+*://www.52hwl.com/*
+*://www.twblogs.net/*
+*://m.bodogfights.com/*
+*://icode.best/*
