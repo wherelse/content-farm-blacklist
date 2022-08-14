@@ -77,3 +77,9 @@
 *://www.coolcxy.com/*
 *://www.geekcxy.com/*
 *://17chuanyue.com/*
+*://www.codegrepper.com/*
+*://etbot.net/*
+*://www.365seal.com/*
+*://www.dounaite.com/*
+*://www.bajiaoyingshi.com/*
+*://www.zongscan.com/*
